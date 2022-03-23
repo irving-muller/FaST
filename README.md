@@ -159,6 +159,8 @@ The paper was accepted and will be published in MSR 2022.
 
 If the code helps your research, please consider to cite our work:
 ```
+@preamble{ " \newcommand{\noop}[1]{} " }
+
 @inproceedings{irving2022b,
   author = {Irving Muller Rodrigues and 
               Daniel Aloise and

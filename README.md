@@ -158,7 +158,7 @@ The experimental results can be found on: experiment_results.ipynb
 The paper was accepted and will be published in MSR 2022.
 
 If the code helps your research, please consider to cite our work:
-
+```
 @inproceedings{irving2022b,
   author = {Irving Muller Rodrigues and 
               Daniel Aloise and
@@ -171,4 +171,5 @@ If the code helps your research, please consider to cite our work:
   pages = {},
   numpages = {}
 }
+```
 

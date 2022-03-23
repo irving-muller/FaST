@@ -75,7 +75,7 @@ julia  --threads $NTHREADS experiments/hyperparameter_opt.jl ${DT_PATH}/gnome_20
 
 
 ###############
-## TraceSIm
+## TraceSim
 #############
 
 #Campbell
